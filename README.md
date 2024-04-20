@@ -1,5 +1,5 @@
 
-# An Next.js online store using oneentry CMS and Aceternity UI
+# An Next.js online store using OneEntry CMS and Aceternity UI
 
 ![screenshot](preview.png "Preview")
 
