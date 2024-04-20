@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# An Next.js online store using oneentry CMS and Aceternity UI
+
+![screenshot](preview.png "Preview")
 
 ## Getting Started
 
